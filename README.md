@@ -1,6 +1,6 @@
 # sembast_veritabani_kullanimi1
 
-Flutter da NoSQL Veritabanı Olan Hive Paketinin Alternatifi Sembast Paketinin Kullanımı.
+Flutter da NoSQL Veri Tabanı Olan Hive Paketinin Alternatifi Sembast Paketinin Kullanımı.
 
 ## Getting Started
 
